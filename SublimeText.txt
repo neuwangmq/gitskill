@@ -1,0 +1,12 @@
+;1:each line of input an extension.
+;2:each line of the first semicolon comment marker.
+txt
+css
+js
+php
+sql
+ini
+java
+jsp
+py
+c
