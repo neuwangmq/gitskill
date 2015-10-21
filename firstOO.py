@@ -6,9 +6,9 @@ class Student(object):
 		self._age = age
 		self._score = score
 	def print_score(self):
-		print '%s:%s' %(self._name,self._score)
+		print ('%s:%s' %(self._name,self._score))
 	def print_student(self):
-		print '%s:%s,%s!!!' % (self._name,self._age,self._score)
+		print ('%s:%s,%s!!!' % (self._name,self._age,self._score))
 wang = Student('wang',25,100)
 hu = Student('hu',25,99)
 #print hu.score

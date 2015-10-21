@@ -6,4 +6,4 @@ def foo(s):
 
 def main():
     return foo('0')
-print main()
+print (main())
